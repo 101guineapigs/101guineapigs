@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @101guineapigs
 - 👀 I’m interested in art
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on IDK
-- 📫 How not to reach me 
+- 🌱 I’ve already learned how to code
+- 💞️ I’m not looking to collaborate
+- 📫 Do not reach out to me
 
 <!---
 101guineapigs/101guineapigs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
